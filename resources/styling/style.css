@@ -1,0 +1,124 @@
+/* Font Styles */
+h1{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0;
+    padding: 0 0 20 0;;
+}
+
+h3{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0 0 20 0;;
+}
+
+h4{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: i;
+    margin: 0;
+    padding: 0 0 20 0;
+}
+
+h5, h6{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+h6{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: "Titillium Web", sans-serif;
+    font-size: 1.1rem;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin: 0;
+    padding: 0 0 20 0;
+}
+
+.btn{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar-brand{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.nav-item{
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400; 
+    font-style: normal;
+    color: #F1EFE7;
+}
+
+/* Page Colors*/
+
+body{
+    background-color: #F1EFE7;
+}
+
+.logo-icon {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    margin-left: 1rem;
+    }    
+
+.navbar{
+    background-color: #0D101D;
+    color: #F1EFE7;
+}
+
+.dark-background{
+    background-color:#0D101D;
+    color: #F1EFE7;
+}
+
+@media (min-width: 1200px){
+
+    .logo-icon {
+        width: 10rem;
+        height: 10rem;
+        margin-left: 1.5rem;
+        }    
+  }
+
+.icon-square {
+width: 5rem;
+height: 5rem;
+border-radius: 0.75rem;
+}
+
+.card:hover {
+    transform: translate(-4px,-4px);
+}
+
+.profile-photo{
+    border: 3px solid #0D101D;
+    box-shadow: 5px 5px #0D101D;
+}
