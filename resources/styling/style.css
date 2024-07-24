@@ -117,10 +117,6 @@ height: 5rem;
 border-radius: 0.75rem;
 }
 
-.card:hover {
-    transform: translate(-4px,-4px);
-}
-
 .profile-photo{
     border: 3px solid #0D101D;
     box-shadow: 5px 5px #0D101D;
